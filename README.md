@@ -1,0 +1,1 @@
+# generalstoremanagment.cpp
